@@ -1,9 +1,9 @@
 Avionul standard(varful sus):       Cu varfu' in jos:         Varfu' la stanga:            Varfu' la dreapta:      
 
     ^                                   * * *                        *                             *                  
-* * * * *                                 *                          *   *                     *   *                  
-    *	  	                      * * * * *		           < * * *		       * * * >                
-  * * *                                   v                          *   *                     *   *                  
+\*\*\*\*\*                                 *                          *   *                     *   *                  
+    \*	  	                      * * * * *		           < * * *		       * * * >                
+  \*\*\*                                   v                          *   *                     *   *                  
                                                                      *                             *
 
 
@@ -32,8 +32,3 @@ Varfurile sunt marcate cu semnul corespunzator pozitiei: ^ - varf in sus
 							 < - varf la stanga
 
 Cand ati doborat toate avioanele jocul se va incheia!
-
-Relizat de PauLLiK @ forum.softpedia.com!
-Ideea ii apartine userului AllBest!
-Cu completari de la dani.user!
-
