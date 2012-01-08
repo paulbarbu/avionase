@@ -32,3 +32,6 @@ Varfurile sunt marcate cu semnul corespunzator pozitiei: ^ - varf in sus
 							 < - varf la stanga
 
 Cand ati doborat toate avioanele jocul se va incheia!
+
+**Depends on:**
+[FMOD](http://www.fmod.org/)
